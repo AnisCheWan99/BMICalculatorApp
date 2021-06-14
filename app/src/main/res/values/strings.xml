@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="text">
+        <a href="https://github.com/join/customize">Bmi Calculator Link</a>
+    </string>
+</resources>
